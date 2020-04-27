@@ -18,7 +18,7 @@
 
     <div class="container">
         <br />
-        <a class="btn btn-primary pull-right">Login</a>
+        <a class="btn btn-primary pull-right" href="admin/login.php">Login</a>
 
         <br />
         <br />
@@ -65,7 +65,7 @@
 
 
     </div>
-
+    <!-- Javascript -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
     <script src="js/bootstrap.min.js"></script>
